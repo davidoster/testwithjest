@@ -1,0 +1,14 @@
+{
+  "name": "testwithjest",
+  "version": "1.0.0",
+  "description": "Intro project for nodeJS packages",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "David Oster",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
